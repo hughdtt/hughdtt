@@ -2,8 +2,8 @@
 
 I've been fortunate enough to learn from amazing people and thought that it was about time to start building something for myself.
 
-I don't have much to show, but hopefully this respository will act as a compendium of my learnings. 
+This respository will act as a compendium of my learnings; a little corner of the internet to share and showcase my achievements. 
 
-I don't consider myself an expert but I'm always keen to learn and explore new things!
+By no means am I an expert but I'm always keen to learn and explore new things! 
 
 
