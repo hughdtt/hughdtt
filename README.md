@@ -1,4 +1,4 @@
-👋 Hi, I’m Hugh! Just a fresh IT graduate with humble beginnings. 
+👋 Hi, I’m Hugh! Just a junior web developer with humble beginnings. 
 
 I've been fortunate enough to learn from amazing people and thought that it was about time to start building something for myself.
 
