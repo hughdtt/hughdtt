@@ -1,8 +1,8 @@
-👋 Hi, I’m Hugh! Just a junior web developer with humble beginnings. 
+👋 Hi everyone, I’m Hugh! Just a junior web developer who likes to help others. 
 
 I've been fortunate enough to learn from amazing people and thought that it was about time to start building something for myself.
 
-This respository will act as a compendium of my learnings; a little corner of the internet to share and showcase my achievements. 
+I'm trying to be consistent and contribute code on Github not only to improve my fundamentals but also showcase my projects. 
 
 By no means am I an expert but I'm always keen to learn and explore new things! 
 
