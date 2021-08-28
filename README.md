@@ -11,7 +11,7 @@
 
 ##### BIO
 
-- 🏛️ I'm currently working within the Digital Innovation space at **DJAG**;
+- 🏛️ I currently build and support web services in the Information Court Technology sector at **DJAG**;
 - ⚙️ I use daily: `.js`, `.html`, `.css`, `.java`, `.cs` ;
 - 🌍 I'm trying to be more active within the **Javascript Community**;
 - 🌱 Learning all about **Open Source**;
