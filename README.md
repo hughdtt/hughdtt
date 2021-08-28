@@ -7,7 +7,7 @@
 - Developing applications at the Department of Justice & Attorney-General (DJAG);
 - Learning Three.js from [Bruno](https://threejs-journey.xyz/)
 - Building a javascript side-project [Poke-Profiles](https://github.com/hughdtt/poke-profiles)
-- Grinding algorithmic challenges *(for fitness and for fun)
+- Grinding algorithmic challenges *(for fitness and for fun)*
 
 ##### BIO
 
