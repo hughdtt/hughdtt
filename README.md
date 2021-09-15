@@ -12,7 +12,7 @@
 ##### BIO
 
 - 🏛️ I currently build and support web services in the Information Court Technology sector at **DJAG**;
-- ⚙️ I use daily: `.js`, `.html`, `.css`, `.java`, `.cs` ;
+- ⚙️ I use daily: `.js`, `.html`, `.css`, `.md`;
 - 🌍 I'm trying to be more active within the **Javascript Community**;
 - 🌱 Learning all about **Open Source**;
 - 💬 Ping me about **development**, **computer science**, **lifestyle** ;
