@@ -6,7 +6,7 @@
 
 - Developing applications at the Department of Justice & Attorney-General (DJAG);
 - Learning Three.js from [Bruno](https://threejs-journey.xyz/);
-- Just finished a short little javascript side-project [Poke-Profiles](https://github.com/hughdtt/poke-profiles);
+- Just finished a little javascript side-project [Poke-Profiles](https://github.com/hughdtt/poke-profiles);
 - Trying to figure out Boids!
 - Grinding algorithmic challenges *(for fitness and for fun)*;
 
