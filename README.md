@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Full-Stack Developer working in Brisbane, Australia!
+#### I'm a Software Engineer working in Brisbane, Australia!
 
 ##### NOW
 
