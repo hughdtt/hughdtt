@@ -13,7 +13,6 @@
 ##### BIO
 
 - 🏛️ I'm currently working as a Systems Officer at Registry of Birth, Death and Marriages (QLD);
-- ⚙️ I'm going to be making an effort to learn: `.js`, `.java`, `.bash`, and linux systems;
 - 🌱 Learning all about **Open Source**;
 - 💬 Ping me about **development**, **computer science**, **lifestyle** ;
 - 📫 Reach me: [linkedin.com/in/hughdtt/](https://www.linkedin.com/in/hughdtt/);
