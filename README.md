@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-#### I'm a Software Engineer working in Brisbane, Australia!
+#### I'm a Software Developer working in Brisbane, Australia!
 
 ##### NOW
 
-- Developing applications at the Department of Justice & Attorney-General (DJAG);
+- Developing applications within Queensland Government;
 - Learning Three.js from [Bruno](https://threejs-journey.xyz/);
 - Just finished a little javascript side-project [Poke-Profiles](https://github.com/hughdtt/poke-profiles);
 - Trying to figure out Boids!
@@ -14,8 +14,8 @@
 
 - 🏛️ I'm currently working as a Systems Officer at Registry of Birth, Death and Marriages (QLD);
 - 🌱 Learning all about **Open Source**;
-- 💬 Ping me about **development**, **computer science**, **lifestyle** ;
+- 💬 Ping me about **development**, **computer science**;
 - 📫 Reach me: [linkedin.com/in/hughdtt/](https://www.linkedin.com/in/hughdtt/);
-- ⚡️ Fun fact: I'm a not-so-closeted nerd;
+
 
 
