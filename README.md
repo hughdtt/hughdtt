@@ -10,7 +10,7 @@
 
 ##### BIO
 
-- 🏛️ I'm currently working as a Systems Officer at Registry of Birth, Death and Marriages (QLD);
+- 🏛️ I'm currently working in the public service sector;
 - 🌱 Learning all about **Serverless architecture**;
 - 💬 Ping me about **development**, **computer science**;
 - 📫 Reach me: [linkedin.com/in/hughdtt/](https://www.linkedin.com/in/hughdtt/);
