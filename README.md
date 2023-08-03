@@ -4,14 +4,12 @@
 
 ##### NOW
 
-- Developing applications within Queensland Government;
-- Tinkering with serverless architecture;
-- Exploring Three.js with [Bruno](https://threejs-journey.xyz/);
+- Tinkering with home servers and self-hosting applications.
+- Exploring Three.js and R3F with [Bruno](https://threejs-journey.xyz/);
 
 ##### BIO
 
 - 🏛️ I'm currently working in the public service sector;
-- 🌱 Learning all about **Serverless architecture**;
 - 💬 Ping me about **development**, **computer science**;
 - 📫 Reach me: [linkedin.com/in/hughdtt/](https://www.linkedin.com/in/hughdtt/);
 
